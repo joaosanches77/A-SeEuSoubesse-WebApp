@@ -1,0 +1,157 @@
+body {
+font-family: 'Poppins', sans-serif;
+}
+.nada {
+    text-decoration: none;
+    color: #AA62DA;
+    font-size: 30px;
+
+}
+
+.borda {
+    border-radius: 20px;
+}
+
+.botao {
+    width: 150px;
+    text-align: absolute;
+    left: 100%;
+    top: 100%;
+    margin-left:60px;
+    margin-top: 200px;
+    border-radius: 20px;
+    background-color: #AA62DA;
+    font-size: 18px;
+    border: none;
+}
+
+.botao2 {
+    width: 150px;
+    text-align: absolute;
+    left: 100%;
+    top: 100%;
+    margin-left:60px;
+    margin-top: 200px;
+    background-color: white;
+    font-size: 18px;
+    border: none;
+    color: #4e555b;
+}
+
+.botoes {
+    margin-top: 350px;
+    margen-left: 80px;
+}
+
+.logo {
+    width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.back {
+    background-image: url("../assets/bg_registo.png");
+    background-repeat: no-repeat;
+}
+
+.centro {
+    padding-left: 40px;
+}
+
+.back1 {
+    background-image: url("../assets/bg_login.png");
+    background-repeat: no-repeat;
+}
+
+.back2 {
+    background-image: url("../assets/bg_landing.png");
+    background-repeat: no-repeat;
+}
+
+.esquecer {
+    text-decoration: none;
+    color: #AA62DA;
+    font-size: 10px;
+}
+
+.coluna {
+    width: 50%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.imagens{
+    width: 20px;
+}
+
+.categorias{
+    border: 1px solid #AA62DA;
+    border-radius: 15px;
+    width: 150px;
+    height: 125px;
+    display: flex;
+    align-items: center;
+    color: #4e555b;
+    text-decoration: none;
+}
+
+.imagem {
+    width: 80%;
+}
+
+.categorias:hover {
+    background-color:  #AA62DA;
+    color: white;
+    text-decoration: none !important;
+
+}
+
+.cor {
+    background-color: #EEE8A2;
+}
+
+.escolhecat {
+    width: 55%;
+}
+
+textarea {
+    background-color: transparent;
+    border: none;
+}
+
+.icones {
+    width: 6%;
+}
+
+.botao3 {
+    width: 40px;
+    text-align: absolute;
+    left: 100%;
+    top: 100%;
+    margin-left:100px;
+    border-radius: 20px;
+    background-color: #AA62DA;
+    font-size: 15px;
+    border: none;
+}
